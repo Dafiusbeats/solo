@@ -2,7 +2,7 @@
 gamedev log
 
 ## common comments
-I have some ideas about my project:
+**I have some ideas about my project:**
 - Character generator
 - Large structure of Lantern City(in-game city)
 - Slaves system and more
