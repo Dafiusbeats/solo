@@ -3,11 +3,11 @@ gamedev log
 
 ## common comments
 I have some ideas about my project:
-- Charachter generator
-- Big structure of the Lantarn city
+- Character generator
+- Large structure of Lantern City(in-game city)
 - Slaves system and more
 ## day 1 maybe(13 april 2025)
-i decide to do everyday diary about my game and progress
+I've decided to start a daily diary about my game and its progress.
 Already done:
-- Structure of Ren'Py project
+- Basic structure of the Ren'Py project
 - Some images for my project
